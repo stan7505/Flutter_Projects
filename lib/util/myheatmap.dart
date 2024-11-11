@@ -24,11 +24,11 @@ class _MyheatmapState extends State<Myheatmap> {
         colorMode: ColorMode.color,
         defaultColor: Theme.of(context).colorScheme.secondary,
         colorsets: {
-          1: Colors.green.shade200,
-          2: Colors.green.shade300,
-          3: Colors.green.shade400,
-          4: Colors.green.shade500,
-          5: Colors.green.shade600,
+          1: Colors.orange.shade200,
+          2: Colors.orange.shade300,
+          3: Colors.orange.shade400,
+          4: Colors.orange.shade500,
+          5: Colors.orange.shade600,
         }
 
     );
